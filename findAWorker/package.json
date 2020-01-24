@@ -21,9 +21,12 @@
     },
     "dependencies": {
         "@popperjs/core": "^2.0.0",
-        "bootstrap": "^4.0.0",
+        "bootstrap": "^4.4.1",
+        "jquery": "^3.4.1",
         "laravel-echo": "^1.6.1",
+        "popper.js": "^1.16.1",
         "pusher-js": "^5.0.3",
-        "vue": "^2.6.11"
+        "vue": "^2.6.11",
+        "vue2-google-maps": "^0.10.7"
     }
 }
